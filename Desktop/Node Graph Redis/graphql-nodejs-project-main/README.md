@@ -12,9 +12,7 @@ apollo-server-express is used to integrate graphQL with express app
 mongoose is MongoDB object modelling tool to interact with MongoDB
 
 # npm install graphql --save
-
 to save it as a dependency
-
 # npm start
 
 Create a database "product" and collection "productList" in mongo DB with below mentioned json
