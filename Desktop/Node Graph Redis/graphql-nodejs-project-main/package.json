@@ -1,0 +1,19 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "Graphql apollo server nodejs and mongo sample product list with CRUD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Archana Ganesan",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.11.1",
+    "apollo-server-express": "^3.11.1",
+    "graphql": "^16.6.0",
+    "mongoose": "^6.9.2",
+    "nodemon": "^2.0.20"
+  }
+}
