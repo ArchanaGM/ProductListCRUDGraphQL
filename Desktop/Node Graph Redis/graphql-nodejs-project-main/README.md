@@ -16,3 +16,19 @@ mongoose is MongoDB object modelling tool to interact with MongoDB
 to save it as a dependency
 
 # npm start
+
+Create a database "product" and collection "productList" in mongo DB with below mentioned json
+<!-- {
+  "_id": {
+    "$oid": "63ef2b0a3032c355b05306f3"
+  },
+  "productType": "electronics",
+  "category": "Gadgets",
+  "productName": "laptop",
+  "price": 20000,
+  "colors": [
+    "black",
+    "grey"
+  ],
+  "imgPath": "/laptop"
+} -->
