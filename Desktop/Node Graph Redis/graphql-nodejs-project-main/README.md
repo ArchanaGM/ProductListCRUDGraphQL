@@ -32,3 +32,6 @@ Create a database "product" and collection "productList" in mongo DB with below 
   ],
   "imgPath": "/laptop"
 } -->
+
+to add docker create -> docker-compose.yml
+# docker-compose up --build -d --remove-orphan
